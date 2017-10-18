@@ -1,5 +1,5 @@
 
-<!DOCTYPE html>
+<! DOCTYPE html>
 <html lang="pt-br">
     <head>
         <meta charset="utf-8">
@@ -20,8 +20,7 @@
                 <img src="C:\Users\danipc\Pictures\Eu\WIN_20170613_16_45_14_Pro.jpg" width="250" height="200" alt="Foto">
             </p>
             <p class="dadospessoais">
-            Brasileira,Solteira<br>
-            cpf: 056.530.177-28<br>
+            Brasileira,Solteira<br>          
             Rio de Janeiro/RJ<br>
             danivioletaaa@yahoo.com.br<br>
             (21)98369-8115<br>
