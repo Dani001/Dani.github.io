@@ -1,37 +1,113 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="utf-8">
+        <meta name="description" content=" curriculo danielle web">
+        <title> Curriculo Danielle </title>
+        <link type="text/css" rel="stylesheet" href="estilo.css">
+        <style>
+            H2{color:darkblue}
+        </style>
+    </head>
+</html>
 
-You can use the [editor on GitHub](https://github.com/Dani001/Dani.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<body>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+    
+    <h1>Danielle de Avila da Silva</h1>
+            <p>
+                <img src="C:\Users\danipc\Pictures\Eu\WIN_20170613_16_45_14_Pro.jpg" width="250" height="200" alt="Foto">
+            </p>
+            <p class="dadospessoais">
+            Brasileira,Solteira<br>
+            cpf: 056.530.177-28<br>
+            Rio de Janeiro/RJ<br>
+            danivioletaaa@yahoo.com.br<br>
+            (21)98369-8115<br>
+            <a href="https://www.linkedin.com/in/danielle-de-%C3%A1vila-da-silva-8a68b281"   target="_blank">linkedin</a>
+            </p> 
 
-### Markdown
+                <h2> Objetivo</h2>
+                <p class="dadodoobjetivo">Analista na área de TI e banco de dados</p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+                <h2>Resumo Profissional</h2>
+                <p>Experiencia em gestão, ecommerce e informática. Sou respponsável, prática, objetiva, dinâmica, sociável, inteligente, organizada e rápida.</p>
 
-```markdown
-Syntax highlighted code block
+                <h2>Formação</h2>
+                <p><strong>Formação superior completa em Análise e Desenvolvimento de Sistemas</strong> - Unicarioca Centro Universitário. (Dezembro de 2016) - Concluído.</p>
 
-# Header 1
-## Header 2
-### Header 3
+                <p><strong>Curso Técnico - Medio (2º grau)
+                Administração de Empresas</strong> - Colégio Estadual Central do Brasil. (Novembro de 2003) - Concluido)</p>
 
-- Bulleted
-- List
+                <h2>Cursos Complementares</h2>
+            
+                <ul>
+                <li>Html 5 - Udemy online (outubro de 2017) Concluído.</li>
+                <li>Git e Github - Udemy online (setembro de 2017) Concluído.</li>
+                <li>Google analytics e adwords - online( Setembro de 2017) Concluído.</li>
+                <li>Desenho arquitetônico - SENAI online(Agosto de 2017) Concluído.</li>
+                <li>Propriedade Intelectual - SENAI online (Agosto de 2017) Concluído.</li>
+                <li>Excell avançado - Unicarioca curso de extensão (Setembro de 2012) Concluído.</li>
+                <li>Access - Portal da educação online (maio de 2012) Concluído.</li>
+                <li>Visual Basic - On Byte Ensino Profissional (Outubro de 2011) Concluído.</li>
+                <li>Lógica de Programação - On Byte Ensino Profissional (Setembro de 2011) Concluído.</li>
+                <li>Montagem e manutenção de micros e rede - Microlins (Agosto de 2008) - Concluído.</li>
+                <li>Informática básico - CEOP informática (Agosto de 2001) - Concluído.</li>
+                </ul>
+                
 
-1. Numbered
-2. List
+                <h2>Idioma</h2>
+                <p>Ingles Intermediário</p>
 
-**Bold** and _Italic_ and `Code` text
+                <h2>Histórico Profissional</h2>
+                <p><b>-Ctis tecnologia
+                (atendente)</b> - de Janeiro/2015 a Agosto/2016
+                Recebimento de ligações  de hospitais e clinicas vinculados a Petrobras, para autorizar procedimentos médicos e dentários, gerar senhas, registrar contato, analisar documentação e status da solicitação.</p>
 
-[Link](url) and ![Image](src)
-```
+                <p><b>-Contax S.A
+                (Supervisora de internet VELOX)</b> de Outubro/2010 a Setembro/2013
+                -Supervisão de equipes de atendimento, planejamento de campanhas e forecast de volume;
+                -Controle e análise de metas e resultados através de relatórios e apresentações gráficas;
+                -Acompanhamento de desempenho, feedback e ações de desenvolvimento;
+                -Monitoria de qualidade e avaliação de performance individual.</p>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+                <p><b>-CSU Card System 
+                (Atendente de call center)</b> - de Julho/2008 a Agosto/2009
+                telemarketing ativo e receptivo para a Tim Celular.</p>
 
-### Jekyll Themes
+                <p><b>-Taií financeira
+                (Promotora de vendas)</b> - de Outubro/2005 a Abril/2006.
+                Captação externa de clientes para empréstimo.</p>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Dani001/Dani.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+                <p><b>-Bob's 
+                (Atendente)</b> - de Agosto/2000 a Abril/2004
+                atendimento no balcão, caixa, vendas, estoque, cozinha e festas.</p>
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+                <h2>Pretenção salarial</h2>
+                <p>Na faixa de R$ 1200,00 (Real).</p>
+
+</body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
