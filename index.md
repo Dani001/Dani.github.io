@@ -30,7 +30,7 @@
                 <p class="dadodoobjetivo">Analista na área de TI e banco de dados</p>
 
                 <h2>Resumo Profissional</h2>
-                <p>Experiencia em gestão, ecommerce e informática. Sou respponsável, prática, objetiva, dinâmica, sociável, inteligente, organizada e rápida.</p>
+                <p>Experiencia em gestão, ecommerce e informática. </p>
 
                 <h2>Formação</h2>
                 <p><strong>Formação superior completa em Análise e Desenvolvimento de Sistemas</strong> - Unicarioca Centro Universitário. (Dezembro de 2016) - Concluído.</p>
